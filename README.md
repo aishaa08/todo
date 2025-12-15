@@ -5,14 +5,12 @@ Jeg skal lage en enkel nettside hvor brukeren kan skrive inn oppgaver de må hus
 
 
 
-Applikasjonen kjører på en Raspberry Pi med Flask som webserver og MariaDB for lagring av data.
-
-
 Hvorfor prosjektet:
 
-- Jeg trener på programmering (Python)
-- Jeg setter opp server og database (drift)
-- Jeg lager veiledning for brukeren (brukerstøtte)
+- Jeg trener på programmering (Python)  - Jeg lærte hvordan setter opp flask
+- Jeg setter opp server og database (drift)  - Jeg klarte å lage en database til nettsiden og prøver å koble til.
+- Jeg lager veiledning for brukeren (brukerstøtte) - I nettsiden så er det litt veileding på hvordan lage by bruker.
+
 - Prosjektet oppfyller kravene i IT-faget
 
 
